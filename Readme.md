@@ -8,7 +8,7 @@
 <p align="center">
 
    <h2 align="center">
-     <pre><samp><&nbsp; <a href="https://thedeepakchaturvedi.github.io/Devsnest-Backend/">BACKEND PAGE LINK 📝</a> &nbsp;></samp></pre>
+     <pre><samp><&nbsp; <a href="https://amoghtech.github.io/Dev-Back/">BACKEND PAGE LINK 📝</a> &nbsp;></samp></pre>
    </h2>
 </p>
 
