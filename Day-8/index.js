@@ -4,11 +4,15 @@ app.get(
   "/",
   (req, res, next) => {
     console.log("1st middleware");
+    if (req.query.role !== "admin") {
+      res.status(401).send("Not autorized");
+    }
+
     next();
   },
   (req, res, next) => {
     console.log("2nd middleware");
-    res.send("2 middlwares")
+    res.send("2 middlwares");
   }
 );
 
