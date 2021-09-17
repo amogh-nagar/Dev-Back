@@ -1,3 +1,7 @@
+# Express.json() and middlewares
+
+```
+
 const express = require("express");
 const app = express();
 // const bodyParser=require('body-parser')
@@ -25,3 +29,9 @@ app.post("/product", (req, res) => {
 });
 
 app.listen(3000);
+
+
+
+
+
+```
