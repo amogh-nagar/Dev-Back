@@ -21,7 +21,7 @@
 | 05 - Crud using CLI |     <a href="https://github.com/Amoghtech/CLI">Link </a>       |            -            |         CRUD         |
 | 06 - Crud using CLI |     <a href="https://github.com/Amoghtech/CLI-PROMISES">Link </a>       |            -            |         CRUD         |
 | 07 - Express intro |     <a href="https://github.com/Amoghtech/Dev-Back/blob/master/Day-7/Request.md">Link </a>       |            -            |         Middlewares        |
-| 08 - Express intro |     <a href="https://github.com/Amoghtech/Dev-Back/blob/master/Day-7/Request.md">Link </a>       |            -            |         Middlewares        |
-| 09 - Express Genrator |     <a href="https://github.com/Amoghtech/Dev-Back/blob/master/Day-8/Readme.md">Link </a>       |            -            |         Middlewares        |
-| 11 - Authentication |     <a href="https://github.com/Amoghtech/Dev-Back/blob/master/Day-7/Request.md">Link </a>       |            -            |         Middlewares        |
+| 08 - Express intro |     <a href="https://github.com/Amoghtech/Dev-Back/blob/master/Day-8/README.md">Link </a>       |            -            |         Middlewares        |
+| 09 - Express Genrator |     <a href="https://github.com/Amoghtech/Dev-Back/blob/master/Day-9/Readme.md">Link </a>       |            -            |         Middlewares        |
+| 11 - Authentication |     <a href="https://github.com/Amoghtech/Dev-Back/blob/master/Day-11/Request.md">Link </a>       |            -            |         Middlewares        |
 
