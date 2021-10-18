@@ -1,0 +1,30 @@
+{
+  "name": "devsnest-backend",
+  "version": "1.0.0",
+  "description": "devsnest backend",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon",
+    "init": "node init.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ayan-Dhara/devsnest-backend.git"
+  },
+  "author": "ayan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ayan-Dhara/devsnest-backend/issues"
+  },
+  "homepage": "https://github.com/Ayan-Dhara/devsnest-backend#readme",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "pg": "^8.7.1",
+    "sequelize": "^6.6.5"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.12"
+  }
+}
